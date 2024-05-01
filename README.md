@@ -1,2 +1,2 @@
 # HealthCheckSystem
-a very very very s1mple project about Clinic Management
+a simple project about Clinic Management was develop by team SEP490-G074
